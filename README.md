@@ -1,2 +1,2 @@
-# PhysicsQuiz
-PhysicsQuiz- A quiz to practise some physics. Made for children
+# RandomQuiz
+RandomQuiz- A random quiz. Enjoy!
