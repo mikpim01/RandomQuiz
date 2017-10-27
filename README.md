@@ -1,4 +1,4 @@
-# Welcome to my first GitHub Project!
+# Welcome to my second GitHub Project!
 
 ## Introduction
 
