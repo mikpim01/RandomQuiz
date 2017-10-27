@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am King Squid, a person who is a code enthusiast. I design graphics and am currently learning HTML, Python and Batch. Python is a beginners programming language and I have RandomQuiz using it. So, I set off to create this. I added funny things, like by using ping to display messages, it would give tension to the user. Another is the usage of taskkill, which is quite a big thing and shocks people. There are more, so try it out! It is safe, and takes a while to get rid of. You can use task manager [Ctrl + Shift + Esc] to end or click the [X] on the window, and restart [explorer.exe].
+I am King Squid, a person who is a code enthusiast. I design graphics and am currently learning HTML, Python and Batch. Python is a beginners programming language and I have RandomQuiz using it. It's a completely random quiz and I will add to it. Don't judge. Enjoy!
 
 ### Usage and Licensing
 	
