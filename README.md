@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to my first GitHub Project!
 
-You can use the [editor on GitHub](https://github.com/king-squid/RandomQuiz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am King Squid, a person who is a code enthusiast. I design graphics and am currently learning HTML, Python and Batch. Python is a beginners programming language and I have RandomQuiz using it. So, I set off to create this. I added funny things, like by using ping to display messages, it would give tension to the user. Another is the usage of taskkill, which is quite a big thing and shocks people. There are more, so try it out! It is safe, and takes a while to get rid of. You can use task manager [Ctrl + Shift + Esc] to end or click the [X] on the window, and restart [explorer.exe].
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/king-squid/RandomQuiz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Usage and Licensing
+	
+Although this is not covered by any license, copyright or trademark, you are free to use this, however, please, if you use/share it, give credit and link to [The GitHub Page](https://king-squid.github.io/RandomQuiz/). You are free to edit, however, if you or modify anything, also give credit and link. <b> I AM NOT RESPONSIBLE FOR ANY EDITS ADDED TO THIS PROGRAM, NOR ANY LOSS OF DATA. THIS IS A SAFE PROGRAM. DO NOT SELL THIS PROGRAM. DO NOT ATTEMPT TO MODIFY THIS PROGRAM IF YOU DO NOT KNOW WHAT YOU ARE DOING. IF YOU WOULD LIKE MORE INFORMATION, SEND ME A MESSAGE. </b>
