@@ -1,8 +1,8 @@
-# Welcome to my second GitHub Project!
+# RandomQuiz
 
 ## Introduction
 
-I am King Squid, a person who is a code enthusiast. I design graphics and am currently learning HTML, Python and Batch. Python is a beginners programming language and I have RandomQuiz using it. It's a completely random quiz and I will add to it. Don't judge. Enjoy!
+I am King Squid, a person who is a code enthusiast. I design graphics and am currently learning HTML, Python and Batch. This is my second project. Python is a beginners programming language and I have RandomQuiz using it. It's a completely random quiz and I will add to it. Don't judge. Enjoy!
 
 ### Usage and Licensing
 	
